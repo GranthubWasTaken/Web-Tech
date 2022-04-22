@@ -1,0 +1,57 @@
+ul {
+	list-style: none;
+	padding-left: 0px;
+}
+th {
+	color: white;
+	font-size: 130%;
+	border-style: solid;
+	border-color: #2F4F4F;
+	border-width: 8px;
+	padding: 3px 7px 3px 7px;
+        background-color: #2F4F4F;
+}
+li {
+	list-style: none;
+	color: black;
+}
+.tcells {
+	border: 1px;
+	border-style: solid;
+	border-color: blue;
+	text-align: center;
+	padding: 3px 4px 3px 4px;
+}
+
+.left {
+	text-align: left;
+}
+.courseformheader {
+	margin-left: 42px;
+	margin-top: 40px;
+	margin-bottom: 1px;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
+
+.enrolled {
+	background-color: lightblue;
+}
+
+.notenrolled {
+	background-color: transparent;
+}
+.bold {
+	font-weight: bold;
+}
+.notbold {
+	font-weight: normal;
+}
+.courseform {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 5px;
+}
