@@ -1,0 +1,75 @@
+.leftmenu {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	vertical-align: top;
+	width: 150px;
+	padding: 10px 10px 10px 10px;
+}
+
+.rightmenu {
+	background-color: orange;
+	color: white;
+	text-align: center;
+	vertical-align: top;
+	padding: 10px 10px 10px 10px;
+}
+
+.centercontextbox {
+	border-style: solid;
+	border-width: 3px;
+	padding:10px 10px 10px 10px;
+}
+
+.timage1 {
+	width: 100%;
+}
+
+.image1 {
+	text-align: center;
+	float: right;
+}
+
+.image2 {
+	float: right;
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 0px;
+}
+
+.contentwidth {
+	width: 1000px;
+	min-width: 300px;
+	vertical-align: middle;
+	margin: 0px auto;
+}
+
+.hrpad {
+	margin-bottom: 20px;
+}
+.minheight {
+	height: 50%;
+}
+.footerbox {
+	padding-top: 0px;
+	padding-bottom: 70px;
+	border-style: dashed;
+	border-color: green;
+	border-width: 5px;
+	width: 1000px;
+}
+
+.paragraphedges {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.centerh3 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
